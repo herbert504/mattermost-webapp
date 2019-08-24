@@ -635,7 +635,7 @@ class LoginController extends React.Component {
                     <Link to={'/reset_password'}>
                         <FormattedMessage
                             id='login.forgot'
-                            defaultMessage='I forgot my password'
+                            defaultMessage='I forgot my password about a month ago. please help!!'
                         />
                     </Link>
                 </div>
